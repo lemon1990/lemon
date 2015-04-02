@@ -1,0 +1,95 @@
+Hi,
+This is Zhuyue. I just find the assignment in D2L, asking us try to communicate using this tool.
+
+So I created an account for our project in Software engineering. The address of our first pad is:
+https://brightone.etherpad.mozilla.org/1. Can you access it? You should register using your email address first.
+
+Have fun!
+
+Do you have some thoughts on our first project statements?
+
+We need to set up a function for customers to make their orders and we also need a function for restaurant to get the bill for each customer.
+
+Yes, I agree. The order choice should be related to the GUI pictures. When the customer clicks a pic of a dish, the price will be added to the total price. And it will be better if we can display a list, showing all the dishes been choosen.
+
+OK, I think it's easy, We can implement this part by using java swing!
+
+Yes. After implemented the basic functions successfully, we can add more complex functions like order confirmation and processing
+
+So, we need another class to create a new order page for customers to confirm!
+
+Yes, including the list all the final dishes, units, price, total price, including tax and delivery fee if they choose the "delivery" option.
+
+Wow, I just figure out we are here making a online ordering system. At the beginning, I thought it's a simulation of the real restaurant!
+
+Haha, I mean we will do online system and simulate the on-site ordering as well. But should we use network? I don't have experience about the network protocal. But for an ordering system, we just need the system to be used in the restaurant, just like an ordering machine in the lobby for customers' self-ordering.
+
+Oh, G! You are scaring me, that is too complex for us, and also, I don't know  network either!
+Maybe we should talk about this face to face later!
+
+OK!
+
+Hi, I think the assignment is about modification about the design document...Do you have an
+
+Hi, how are you doing  tonight?
+
+
+I remembered last class teacher said that the design part need to include different senarios including pictures to describe it
+ like the if.....else.....but i am not sure whether it is the assignment tomorrow
+
+I am in a safe place now.. how is the situation in campus?
+
+Maybe the network in your place is not good today. Using "WeChat" to let me know when you are available... 
+
+take care...
+
+sorry, are you still in there?
+
+OK, will talk tomorrow!
+yes
+Have you viewed our code? Can you do the modification this weekend? 
+
+this weekend?
+ but the due is tomorrow!
+ 
+yes, we've half way done...sorry I only mean the code
+
+you mean I need to finish this project by this weekend?
+No, I just said we can add some functions into it, make progress, we will make it better later
+first we need to add the functions step by step right?
+
+OK, I got you, I'll t
+So, tomorrow  can we have a meeting?
+yes, tomorrow afternoon will be fine.
+meet at 3:00?
+
+can you specify?
+
+OK, will see at 3:00pm!
+
+in Meinders school's lobby?
+
+Yeah, of course, in the lounge !
+ok. see u then. we can review the document and think of modifications
+ or add some thing new into it
+ 
+ 
+ SEE you, have a good night!
+bye!
+
+Hi, have u seen the source code? The basic function is to click different pictures of dishes and the price will be calculated accordingly.
+
+The problem is that there seems to be a delay in calculation. You'll see it.
+
+why?
+
+I've checked it, but didn't find the problem...
+
+so there must be some bugs in there and I will try to find them out!
+
+thanks, I think it is possible that there is synchronization problem. Because when you choose other dishes, it will help to "flush" the former one.
+
+I'll check the logic in the ActionListener, and we'll figure it out!
+Ok, I will be in the library tomorrow. If you got any time and progress, just let me know
+
+OK, here it is, will talk latter!
